@@ -1,0 +1,45 @@
+body {
+
+    font-family: 'Merriweather', serif;
+
+    padding-bottom: 20px;
+    /*!*background-color: #D0E8F2;*!*/
+    /*background: linear-gradient(#E4BAD4, #F6DFEB ) no-repeat center center fixed;*/
+    /*!*background-image: linear-gradient( #D0E8F2,#456268 ) no-repeat center center fixed;*!*/
+
+
+}
+.material-icons{
+    font-family: 'Material Icons';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px; /*preferred icon size */
+    vertical-align: bottom;
+    display: inline-block;
+    line-height: 1;
+    test-transform: none;
+    letter-spacing: normal;
+    word-wrap:normal;
+    white-space: nowrap;
+    direction: ltr;
+}
+video {
+    max-width: 100%;
+    height: auto;
+}
+#videocontent {
+    background-color: #FFFF;
+}
+.btn-primary {
+    background-color: blueviolet;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif
+}
+
+/*#CAF7E3*/
+/*#F8EDED*/
+/*#F6DFEB*/
+/*#E4BAD4*/
+/*rgb(202, 247, 227)*/
+/*rgb(248, 237, 237)*/
+/*rgb(246, 223, 235)*/
+/*rgb(228, 186, 212)*/
